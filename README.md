@@ -21,5 +21,7 @@ Test for AirAasia
 - Test is added to verify order service
 - Refer database.jpg for data base design
 
+![alt text](https://github.com/shuwair/AirAasiaTest/blob/master/database.jpg?raw=true)
+
 
  
