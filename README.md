@@ -1,5 +1,5 @@
-# AirAasiaTest
-Test for AirAasia
+# AirAsiaTest
+Test for AirAsia
 
 ## 1.	Technologies Used
 - Java 8
