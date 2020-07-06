@@ -1,0 +1,17 @@
+com\airaisa\repository\OrderRepository.class
+com\airaisa\controller\HotelController.class
+com\airaisa\entity\Hotel.class
+com\airaisa\repository\RoomRepository.class
+com\airaisa\entity\Room.class
+com\airaisa\controller\RoomController.class
+com\airaisa\entity\Order.class
+com\airaisa\service\CustomerService.class
+com\airaisa\service\HotelService.class
+com\airaisa\repository\HotelRepository.class
+com\airaisa\entity\Customer.class
+com\airaisa\controller\OrderController.class
+com\airaisa\controller\CustomerController.class
+com\airaisa\service\OrderService.class
+com\airaisa\service\RoomService.class
+com\airaisa\AirAisaOrderApplication.class
+com\airaisa\repository\CustomerRepository.class
