@@ -19,7 +19,7 @@ Test for AirAasia
 - Implemented services to take order and insert in data base
 - Can be deployed and run through springboot
 - Test is added to verify order service
-- Refert database.jpg for data base design
+- Refer database.jpg for data base design
 
 
  
