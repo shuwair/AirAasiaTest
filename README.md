@@ -1,5 +1,5 @@
-# AirAsiaTest
-Test for AirAsia
+# Global Line Network Test
+Test for Global Line Network
 
 ## 1.	Technologies Used
 - Java 8
@@ -10,18 +10,11 @@ Test for AirAsia
 - h2database
 - SpringBootTest 
 
-## 2.	Assumptions
-- Data base is design based on entities required but not all services are implemented
-- Assuming all calculations for order is already in system
-- Assuming all validation for order and reservation is already in system
-
 ## 3.	Implementation details 
-- Implemented services to take order and insert in data base
+- Implemented services to perfor curd operation for user
 - Can be deployed and run through springboot
-- Test is added to verify order service
-- Refer database.jpg for data base design
+- Test is added to verify service
 
-![alt text](https://github.com/shuwair/AirAasiaTest/blob/master/database.jpg?raw=true)
 
 
  
